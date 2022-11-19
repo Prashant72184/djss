@@ -1,7 +1,11 @@
 package automation;
 
 public class ThrreePrrroduct {
-system.out.println("prashant is a handsome boy");
-system.out.println("prashant is a handsome boy13");
+	public static void main(String[] args) {
+		
+	
+System.out.println("prashant is a handsome boy");
+System.out.println("prashant is a handsome boy13");
 
+}
 }
